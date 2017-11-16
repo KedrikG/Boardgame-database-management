@@ -1,1 +1,1 @@
-# Hello-world
+# Hi, here i'll propose a way of managing a boardgame database
